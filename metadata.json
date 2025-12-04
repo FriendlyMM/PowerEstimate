@@ -1,0 +1,5 @@
+{
+  "name": "LSHE MSP: Inverter and Battery Sizing",
+  "description": "An intelligent tool to configure the perfect combination of hybrid inverters and LiFePO4 batteries for home energy needs, powered by Gemini.",
+  "requestFramePermissions": []
+}
